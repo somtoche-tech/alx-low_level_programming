@@ -8,8 +8,9 @@
 
 /**
  * main - this program prints the last digit of n
- * and prints out whether it is greater than 5, 0 or less than 6
- * return: (0) Always
+ * and prints out whether it is greater than 5, 0 or
+ * less than 6
+ * Return: (0)
  */
 
 int main(void)
