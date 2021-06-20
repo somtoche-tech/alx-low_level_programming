@@ -12,11 +12,11 @@ while (a <= 'z')
 putchar(a);
 a++;
 }
-char alph = 'A';
-while (a <= 'Z')
+alph = 'A';
+while (alph <= 'Z')
 {
-putchar(a);
-a++;
+putchar(alph);
+alph++;
 }
 putchar('\n');
 return (0);
